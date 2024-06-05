@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/trianipm/hum</url>
+      <url>https://maven.pkg.github.com/trianipm/continous_deploy</url>
     </repository>
   </distributionManagement>
   
